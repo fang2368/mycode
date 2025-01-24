@@ -1,3 +1,0 @@
-- 将Assets拷贝到项目的Assets文件夹上
-- 打开项目，将Assets/Scenes下的hitUFOv2.unity场景拉到Hierarchy中
-- 点击运行
